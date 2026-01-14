@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Reliable+Systems+at+Scale;AI-Native+Incident+Response+%F0%9F%A4%96;50%2B+Terraform+Modules+Authored;Open+Source+Contributor" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/phonginreallife-181717?style=for-the-badge&logo=github&logoColor=white)](phonginreallife@gmail.com)
+[![Email](https://img.shields.io/badge/phonginreallife@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phonginreallife@gmail.com)
 
 </div>
 
