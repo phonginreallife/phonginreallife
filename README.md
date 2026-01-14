@@ -1,6 +1,6 @@
 <div align="center">
   
-### `DevOPs / Site Reliability Engineer`
+### `DevOps / Site Reliability Engineer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Reliable+Systems+at+Scale;AI-Native+Incident+Response+%F0%9F%A4%96;50%2B+Terraform+Modules+Authored;Open+Source+Contributor" alt="Typing SVG" />
 
